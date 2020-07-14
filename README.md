@@ -10,29 +10,29 @@ I am a hobby coder. I enjoy learning new code languages and making fun projects.
 
 Languages I have learned:
 
-HTML
-CSS
-JavaScrip
-Python
-NumPy
-Matplotlib
-LUA
-C++
+* HTML
+* CSS
+* JavaScrip
+* Python
+  * NumPy
+  * Matplotlib
+* LUA
+* C++
 
 Languages in the process of learning:
 
-CPython - with C++
+* CPython - with C++
 
 I would like to become more proficient in:
 
-Python
-CPython
-C++
-LUA
+* Python
+  * CPython
+* C++
+* LUA
 
 My weakness are:
 
-I am not good a web design. I don't have a good design eye. I am good at copying design ideas from others but I am not creative to make my own.
+I am not good at web design. I don't have a good design eye. I am good at copying design ideas from others but I am not creative to make my own.
 
 My Long Term Goals:
 I would like to gain a better understanding of coding for microprocessors and get into IoT.
