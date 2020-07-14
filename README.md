@@ -10,7 +10,7 @@ I also enjoy Landscape Photography. You can see my photos at <a href="https://ww
 
 ## What I am Interested in
 
-Being a rancher I have found areas that would make rancher's lives a little easier. I am trying to get a better idea of coding to be able to build some of my ideas. I have spend some time learning this different languages along my trail.
+Being a former Rancher I have found areas that would make Rancher's lives a little easier. I am trying to get a better idea of coding to be able to build some of my ideas. I have spend some time learning these different languages along my trail.
 
 ### Here are the Languages I have learned:
 
@@ -47,17 +47,3 @@ I would like to gain a better understanding of coding for microprocessors and ge
 #### Always looking for partners to team up with
 
 I would like to help with some IoT project if they did not mind that I am still a green hand about electronic coding.
-<!--
-**TechRancher/TechRancher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
