@@ -36,7 +36,7 @@ Being a rancher I have found areas that would make rancher's lives a little easi
 
 ### My weakness are:
 
-Web Design to me is like riding a calf. It just can't be done. But I am good at copying design ideas from others, but who likes to wear hand-me-down old boots :boot: :cowboy_hat_face:
+Web Design to me is like roping the moon. It just can't be done. But I am good at copying design ideas from others, but who likes to wear hand-me-down old :boot: :cowboy_hat_face:
 
 ### My Long Term Goals:
 
