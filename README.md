@@ -32,10 +32,11 @@ I would like to become more proficient in:
 
 My weakness are:
 
-I am not good at web design. I don't have a good design eye. I am good at copying design ideas from others but I am not creative to make my own.
+I am not good at web design. Web Design is not easy for me to do. I am good at copying design ideas from others but I am not creative to make my own.
 
 My Long Term Goals:
-I would like to gain a better understanding of coding for microprocessors and get into IoT.
+
+I would like to continue learning new languages and finding was to apply them to my everyday life projects. I would like to gain a better understanding of coding for microprocessors and get into IoT.
 <!--
 **TechRancher/TechRancher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
