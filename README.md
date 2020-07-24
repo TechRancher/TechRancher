@@ -19,17 +19,18 @@ Being a former Rancher I have found areas that would make Rancher's lives a litt
 * JavaScrip
 * Python
   * Django
+    * DjangoREST
   * NumPy
   * Matplotlib
 * LUA
 * C++
 
-### Languages in the process of learning:
+### Languages in the process of learning
 
 * CPython - with C++
 * Docker + Kubernets\-K8
 
-### I would like to become more proficient in:
+### I would like to become more proficient in
 
 * Python
   * CPython
@@ -37,13 +38,17 @@ Being a former Rancher I have found areas that would make Rancher's lives a litt
 * C++
 * LUA
 
-### My weakness are:
+### My Weakness
 
 Web Design to me is like roping the moon. It just can't be done. But I am good at copying design ideas from others, but who likes to wear hand-me-down old :boot: :cowboy_hat_face:
 
-### My Long Term Goals:
+### My Strengths
 
-I would like to gain a better understanding of coding for microprocessors and get into IoT. There is an opportunity to relieve pain points for ranchers by the use of technology and with these younger generation folks understanding the benefit of IoT the sky is the limits so to say.
+Backend with Django/DjangoREST is where I belong. I seem to thrive in the Python world. I want to grow deeper into the workings of the Django framework world with adding C++ connection to work with IoT world.
+
+### My Long Term Goals
+
+I would like to gain a better understanding of coding for microprocessors and get into IoT with the use of Django framework as my UI and Python as the backend. There is an opportunity to relieve pain points for ranchers by the use of technology and with these younger generation folks understanding the benefit of IoT the sky is the limits so to say.
 
 - - -
 
