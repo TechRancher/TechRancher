@@ -18,6 +18,7 @@ Being a former Rancher I have found areas that would make Rancher's lives a litt
 * CSS
 * JavaScrip
 * Python
+  * Django
   * NumPy
   * Matplotlib
 * LUA
@@ -26,11 +27,13 @@ Being a former Rancher I have found areas that would make Rancher's lives a litt
 ### Languages in the process of learning:
 
 * CPython - with C++
+* Docker + Kubernets\-K8
 
 ### I would like to become more proficient in:
 
 * Python
   * CPython
+  * Django + Docker
 * C++
 * LUA
 
