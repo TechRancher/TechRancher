@@ -4,7 +4,6 @@
 
 I am the coding Rancher :cow:  
 Hobby coder is what I am. I enjoy learning new code languages and making fun projects when I can. Have a look partner at my <a href="https://github.com/TechRancher?tab=repositories" target="_blank">projects</a> and tell me if you are a fan.  
-I also enjoy Landscape Photography. You can see my photos at <a href="https://www.instagram.com/sikesphotos/" target= "_blank"> Instagram Profile </a>.
 
 - - -
 
