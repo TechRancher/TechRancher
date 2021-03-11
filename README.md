@@ -3,7 +3,7 @@
 **TechRancher** :bearded_person: is my username
 
 I am the coding Rancher :cow:  
-Hobby coder is what I am. I enjoy learning new code languages and making fun projects when I can. Have a look partner at my <a href="https://github.com/TechRancher?tab=repositories" target="_blank">projects</a> and tell me if you are a fan.  
+Hobby coder is what I am. I enjoy learning new code languages and making fun projects when I can. Have a look partner at my <a href="https://github.com/TechRancher?tab=repositories" target="_blank" rel="noopener noreferrer tag me" title="My Cool Projects!">projects</a> and tell me if you are a fan.  
 
 - - -
 
@@ -53,7 +53,7 @@ I would like to gain a better understanding of coding for microprocessors and ge
 
 ### In My Spare Time
 
-I am getting into writing scripts for Thinkorswim:registered: platform By: TD-Ameritrade. I have been studing on DayTrading for sometime and have written some scripts to help detect trends and buy/sell indicators for the Bollinger Band indicator.
+I am getting into writing scripts for Thinkorswim:registered: platform By: TD-Ameritrade. I have been studing on DayTrading for some time and have written some scripts to help detect trends and buy/sell indicators for the Bollinger Band indicator. Feel free to check them out in my <a href="https://github.com/TechRancher?tab=repositories" target="_blank" rel="noopener noreferrer tag me" title="Check out my hard work!">projects</a> page.
 
 - - -
 
