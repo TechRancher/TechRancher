@@ -23,6 +23,7 @@ Being a former Rancher I have found areas that would make Rancher's lives a litt
   * Matplotlib
 * LUA
 * C++
+* Type Script
 
 ### Languages in the process of learning
 
@@ -36,10 +37,11 @@ Being a former Rancher I have found areas that would make Rancher's lives a litt
   * Django + Docker
 * C++
 * LUA
+* DayTrading 💲 💲 💲
 
 ### My Weakness
 
-Web Design to me is like roping the moon. It just can't be done. But I am good at copying design ideas from others, but who likes to wear hand-me-down old :boot: :cowboy_hat_face:
+Web Design to me is like roping the moon 🌕. It just can't be done. But I am good at copying design ideas from others, but who likes to wear hand-me-down old :boot: :cowboy_hat_face:
 
 ### My Strengths
 
@@ -48,6 +50,10 @@ Backend with Django/DjangoREST is where I belong. I seem to thrive in the Python
 ### My Long Term Goals
 
 I would like to gain a better understanding of coding for microprocessors and get into IoT with the use of Django framework as my UI and Python as the backend. There is an opportunity to relieve pain points for ranchers by the use of technology and with these younger generation folks understanding the benefit of IoT the sky is the limits so to say.
+
+### In My Spare Time
+
+I am getting into writing scripts for Thinkorswim:registered: By: TD-Ameritrade platform. I have been studing on DayTrading for sometime and have written some scripts to help detect trends and buy/sell indicators for the Bollinger Band indicator.
 
 - - -
 
