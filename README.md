@@ -53,7 +53,7 @@ I would like to gain a better understanding of coding for microprocessors and ge
 
 ### In My Spare Time
 
-I am getting into writing scripts for Thinkorswim:registered: By: TD-Ameritrade platform. I have been studing on DayTrading for sometime and have written some scripts to help detect trends and buy/sell indicators for the Bollinger Band indicator.
+I am getting into writing scripts for Thinkorswim:registered: platform By: TD-Ameritrade. I have been studing on DayTrading for sometime and have written some scripts to help detect trends and buy/sell indicators for the Bollinger Band indicator.
 
 - - -
 
