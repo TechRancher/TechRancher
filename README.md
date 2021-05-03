@@ -27,8 +27,8 @@ Being a former Rancher I have found areas that would make Rancher's lives a litt
 
 ### Languages in the process of learning
 
-* CPython - with C++
-* Docker + Kubernets\-K8
+* PyQt6
+* MicroPython
 
 ### I would like to become more proficient in
 
